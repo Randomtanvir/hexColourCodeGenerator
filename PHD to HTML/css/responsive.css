@@ -1,0 +1,108 @@
+/* Tablate layout */
+@media only screen and (min-width:200px) and (max-width:991px){
+
+    .social_area{max-width: 496px; padding-top: 13px;}
+    .ineer_menu { background: none;min-height: auto;}
+    .ineer_menu::after {display: none;}
+    .mean-container .mean-nav {width: 80%;margin-top: 0px;}
+    #slider_area {margin-top: 0px;}
+    .inner_hero p {font-size: 15px;}
+    .inner_hero h2 {font-size: 60px;}
+
+}
+
+/* Mobile layout */
+@media only screen and (min-width:200px) and (max-width:480px){
+
+    .mini_menu {width: 100%; margin-bottom: 10px;}
+    .mini_menu ul,.social_area ul { text-align: center;}
+    .search_area { float: none;width: 250px;margin: 0 auto;}
+    .logo_area { width: 240px; float: none;margin: 0 auto;text-align: center }
+    .social_area ul li { margin: 0 5px;}
+    .inner_hero h2 {font-size: 30px; }
+    .inner_hero p {font-size: 14px; }
+    .inner_hero a {font-size: 14px;}
+    .inner_hero {margin-bottom: 20px;}
+    #work_area, #footer_area, #copyright_area {padding: 10px 0; }
+    .child_work { width: 98%;}
+    .child_footer { width: 96%;   }
+    .inneri_copyright p { margin: 5px;}
+    .left_copyright { width: 100%;}
+    .right_copyright {float: left; text-align: left;width: 100%; }
+    .aligenleft {float: none;width: 100%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
